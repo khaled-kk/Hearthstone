@@ -1,0 +1,7 @@
+1-when you run the code there will  button called(press here) then if you press at (play) button it will take you to a JComboBox to Select the first hero and the second hero .
+2-there will be a (play minion !) button that will play the minion from the hand to the feild .
+3-there will be a (cast spell) button that will generate a pop-up telling you to Select the target you want according the spells effect .
+4-there will be a (attack) button that will generate a pop-up telling you to Select the target you want .
+5-in the right of the screen there are (end turn) button .
+6- the  current hero hand and feild is always on the bottom of the screen ,at the most left there is the hero's photo ,name ,curent mana and total mana , in the middle there is the hand and on top of it the field ,in the most right ther is the deck and on top of it the (use hero power) button .
+7-in the hero Selection page the first hero and the second hero must enter there name's to start the game ,if a pop-up appears you have to close it before you continue playing , whin the game is over there will be a pop-up telling you the winners name and then the window will close.
